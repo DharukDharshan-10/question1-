@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: profile-container
-        image: DHARUKDHARSHAN/personal-profile:v1
+        image: dharukdharshan/personal-profile:v1
         ports:
         - containerPort: 80
 ---
